@@ -1,0 +1,9 @@
+Statistics for Multilingual 512 model: scores going from [-1,1]
+- English : 195666
+- French: 94671
+- German: 137510
+
+Statistics for Multilingual 40 model: [-1,1]
+- English : 120530
+- French: 94251
+- German: 137166

@@ -1,0 +1,103 @@
+C11 Strategies for new companies, diversification and investments
+C12 Proceedings and judicial decisions
+C13 Policy, regulation and deregulation of the government
+C14 Stock shares
+C15 Industry and enterprise performance
+C151 Relations, results, reports, dividends
+C1511 Announcements of all-year results
+C152 Forecasts, performance reviews, comments and recommendations, investment research
+C16 Bankruptcies, bankruptcies and liquidations
+C17 All sources of capital and financing, rescue packages and public aid
+C171 Issues of shares
+C172 Issue of bonds and debt instruments
+C173 Bank loans and loans
+C174 Corporate loans
+C18 All property changes
+C181 Acquisitions, disposals, mergers, redemptions, entry fees
+C182 Buy and sell assets, e.g. land
+C183 Sale of public property
+C21 Agricultural production, services and activities
+C22 New products and services
+C23 Research and development
+C24 Production / service processes, closures, production costs, exploration minerals
+C31 Sales, fairs, marketing, market research, product prices
+C311 Domestic markets, sales and imports
+C312 External markets and exports
+C313 Market share data
+C32 Advertising and promotion of companies
+C33 Contracts and orders, contract prices
+C331 Contracts for deliveries to the armed forces
+C34 Stand-alone, antitrust and competition practices
+C41 All issues related to management
+C411 Nominations on the board, resignations and pensions
+C42 Work, recruitment and dismissals, strikes and disputes
+CCAT Corporate / Industrial
+E11 GDP and economic results
+E12 Monetary and economic policy, interventions, interest rates
+E121 Money supply
+E13 Inflation, prices and price indices
+E131 Consumer prices and price indices
+E132 Wholesale prices and price indices
+E14 Level of personal expenses, income and debt
+E141 Net personal income
+E142 Consumer loans, debt installments
+E143 Data on retail sales
+E21 Government expenditure and revenues
+E211 Expenditure and public revenues, including budget, taxes and fiscal policy
+E212 Loans of the public finance sector
+E31 Inventory and productivity of factories
+E311 The dynamics of industrial production
+E312 Capacity utilization
+E313 Stock of production raw materials
+E41 Employment, unemployment, work
+E411 Number of unemployed
+E51 Balance of external payments and provisioning, including assistance
+E511 Balance of payments, capital flow
+E512 Current account, ie the balance of import and export of physical goods
+E513 Owning gold, foreign exchange and other assets
+E61 Construction of apartments and building permits
+E71 Business climate indicators
+ECAT Economics
+G15 European Community (EC)
+G151 Internal EC market
+G152 EC industrial policy
+G153 Agriculture and Fisheries Policy EC
+G154 EC economic and monetary policy
+G155 Community institutions, European Commission, Parliament, European Court
+G156 Issues of EC environmental initiatives
+G157 EC competition policy
+G158 External relations in EC trade
+G159 Other articles concerning the EC
+GCAT Everything about government and society
+GCRIM Civil and criminal law
+GDEF Armed forces, defense, defense budget
+GDIP Foreign affairs, international cooperation and disputes
+GDIS Natural disasters, earthquakes, tsunamis, volcanic eruptions, etc.
+GENT Theater, TV, radio, festivals, exhibitions
+GENV Pollution, environmental protection
+GFAS Designers, modeling, latest styles and trends
+GHEA Health, diseases, drugs and drugs, medical research, hospitals
+GJOB All employment issues, employment, unemployment, strikes, rights
+GMIL All matters related to the upcoming year 2000
+GOBIT Stories about the deaths of famous people
+GODD ODD on N2000, e.g. a man with a head in the sand; only news Reuters
+GPOL Political parties, parliament, Congress;
+GPRO People in news, profiles, politicians, celebrities
+GREL All matters related to religion
+GSCI All aspects of science, research and new technologies, space travel
+GSPO All matters related to sport
+GTOUR Holidays, places, tourist problems, arrivals
+GVIO Social unrest, demonstrations, civil wars
+GVOTE National, regional elections only applies to governments
+GWEA All matters related to the weather
+GWELF Social services, social benefits, legislation, poverty and homelessness
+M11 Stock exchanges and shares
+M12 The primary and secondary bond and debt market
+M13 Markets of bank deposits and foreign currencies
+M131 Markets between banks
+M132 Foreign exchange and exchange rates
+M14 Trade in all goods
+M141 Turnover in all agricultural commodities
+M142 Rotation of all metal goods
+M143 Trading in all energy commodities
+MCAT Securities turnover, commodity market

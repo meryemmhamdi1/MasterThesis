@@ -1,0 +1,58 @@
+DEFAULT:
+    output: 'world_cup_old'
+    label_dir: 'out_label'
+LANGS:
+  AR_DA:
+    api_key: 'D76xETb7RDWb81437qX82GCno'
+    api_secret: 'u4sxND6Ss4uFIJMBySGcF3H7LLFrhlIywOz8KDT36BtYD70JI4'
+    access_token: '765465548633309184-ceyqUnIgbkdorX2HyS7C7Pb6ti4f61U'
+    access_secret: 'lp6DhzIq3n2XpY0NWh1ZVjLz6ivJkPdnZXqXhWV4udJuH'
+    search_query: ''
+  DE_EN:
+    api_key: 'rnw0NQVlTTvfQPf7Ihkhuovb7'
+    api_secret: 'EFCVfoHXWCKtshcGBQ8EN79iKV9DcbUdZbTZ3GWjiNQIZB0Dus'
+    access_token: '765465548633309184-IiXofw6ZOtNKuvg69NJwDdsEUntbejn'
+    access_secret: 'OetvTm4HajXvyuEeRDIWiJd69eJWXFSQjMJbI4fbeUGFk'
+    search_query: ''
+  ES_FA:
+    api_key: 'a9HOrP3leJifSMCVRL8xxzlgl'
+    api_secret: 'ORoi4LUB0pZRLo9V24oVxhsu4lDoooiBf5MA03b4h7J05bUlqi'
+    access_token: '765465548633309184-gU8GmLWHC3tLDPPlhuav0GrLCp0sqE2'
+    access_secret: '3JdCIBeLGqnmsXopetKTIa5QzPiiMtrV9YbUXKrd8wd9b'
+    search_query: ''
+  FR_HR:
+    api_key: 'b7oQiwaVlLJGLDSnpTrih0naD'
+    api_secret: 'Me1QEynEiea6a8PA0PVzr3Gyb1cO9xXu6SvDtHyidEkvdAjHe6'
+    access_token: '765465548633309184-dgZlNCW2a9YuXDixECfiuFSdGKI8V0k'
+    access_secret: 'BA2NxbroAraqcZsxkXu2a9rJjXigDRDLXGmR1zW84bmMj'
+    search_query: ''
+  IS_IT:
+    api_key: 'OJ1oOWK75eWXNUWwbZYVHrHen'
+    api_secret: 'XkE87pKvt2idwRl3ORu5WGvPRKd6G5WlOgxTZ0Nhy2fGhnVjzl'
+    access_token: '765465548633309184-iRQjfkOmA2CKJmeIBrTPMmkZkI3Gqj0'
+    access_secret: 'g8a2bEnnnawmi9iiZDnsaKB26DR5xlSyOHMbzrU1NNx5H'
+    search_query: ''
+  JA_KO:
+    api_key: '6wN0SfqV0K7nTDh7JVVc5bvsL'
+    api_secret: 'xDUWbmgPUZ0lafNi9ez4nSygFPoU0s6yaf21lYvSHkZKwvvioP'
+    access_token: '1009073927338053632-TkX8wpPIxdzvbt1qep3tHkLEsVYgVA'
+    access_secret: 'J52sC4vXHLNLf8VXr8pfK1inGhwCGxsGuoRIfYytP1QbA'
+    search_query: ''
+  PL_PT:
+    api_key: 'wYVBARbi74t5hnXxesVCzMHfT'
+    api_secret: 'DAfQtuVttEviyV83H44BLLxWvaKdmA1VNPdTNT0EfiHod4sV2d'
+    access_token: '1009073927338053632-r49u1CjuSeJI624XFMY3ElqiOlXxEp'
+    access_secret: '4C8NCAthHXBIedMiCgZqwd7gx0GsPOH4Suzx8L3vdWwVo'
+    search_query: ''
+  RU_SR:
+    api_key: 'HVBgQ9CZs0myvaw3PBWKaZL5u'
+    api_secret: 'f7x5GSkXDjKgVRZwKsn64sS6P1H1zw6tNsgzgm1Dgw9byjWBTd'
+    access_token: '1009073927338053632-MKGjgf0FP4LgkRyW4U0YjwFPVySb6E'
+    access_secret: 'nwbRqzVtC9V1XHzspQIe6w1abIVDuuCK0rCmzdmODJNh0'
+    search_query: ''
+  SV:
+    api_key: ''
+    api_secret: ''
+    access_token: ''
+    access_secret: ''
+    search_query: ''

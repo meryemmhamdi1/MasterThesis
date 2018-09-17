@@ -1,0 +1,14 @@
+network_type,max_seq_length,max_num_words,embedding_size,word_embeddings_path,batch_size,max_epochs,kernel_sizes,filters,num_of_units,dropout,data_set,patience,max_acc
+cg_att,622,1000000,300,/aimlx/MonolingualEmbeddings/GoogleNews-vectors-negative300.bin,128,2,"[2, 3]",256,128,0.3,rcv,20,0.753
+network_type,max_seq_length,max_num_words,embedding_size,word_embeddings_path,batch_size,max_epochs,kernel_sizes,filters,num_of_units,dropout,data_set,patience,max_acc
+cg_att,622,1000000,300,/aimlx/MonolingualEmbeddings/GoogleNews-vectors-negative300.bin,128,2,"[2, 3]",256,128,0.3,rcv,20,0.9447137788707796
+network_type,max_seq_length,max_num_words,embedding_size,word_embeddings_path,batch_size,max_epochs,kernel_sizes,filters,num_of_units,dropout,data_set,patience,max_acc
+cg_att,622,179355,300,/aimlx/MonolingualEmbeddings/wiki.fr.vec,32,10,"[2, 3]",256,128,0.3,rcv,20,0.9577039975870629
+network_type,max_seq_length,max_num_words,embedding_size,word_embeddings_path,batch_size,max_epochs,kernel_sizes,filters,num_of_units,dropout,data_set,patience,max_acc
+cg_att,622,248294,300,/aimlx/MonolingualEmbeddings/german.model,32,10,"[2, 3]",256,128,0.3,rcv,20,0.8948782270330061
+network_type,max_seq_length,max_num_words,embedding_size,word_embeddings_path,batch_size,max_epochs,kernel_sizes,filters,num_of_units,dropout,data_set,patience,max_acc
+cg_att,622,179355,300,/aimlx/MonolingualEmbeddings/wiki.fr.vec,32,10,"[2, 3]",256,128,0.3,rcv,20,0.9515092457251572
+network_type,max_seq_length,max_num_words,embedding_size,word_embeddings_path,batch_size,max_epochs,kernel_sizes,filters,num_of_units,dropout,data_set,patience,max_acc
+cg_att,622,248294,300,/aimlx/MonolingualEmbeddings/german.model,32,10,"[2, 3]",256,128,0.3,rcv,20,0.89697197147767
+network_type,max_seq_length,max_num_words,embedding_size,word_embeddings_path,batch_size,max_epochs,kernel_sizes,filters,num_of_units,dropout,data_set,patience,max_acc
+cg_att,622,62827,300,/aimlx/MonolingualEmbeddings/wiki.it.vec,32,10,"[2, 3]",256,128,0.3,rcv,20,0.9223589001447178

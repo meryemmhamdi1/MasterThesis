@@ -1,0 +1,53 @@
+Language english
+Class 1 has 57352 training instances 
+Class 1 has 14284 validation instances 
+Class 1 has 18070 testing instances 
+Class 0 has 243109 training instances 
+Class 0 has 60745 validation instances 
+Class 0 has 75969 testing instances 
+Class 3 has 106460 training instances 
+Class 3 has 26672 validation instances 
+Class 3 has 33178 testing instances 
+Class 2 has 104012 training instances 
+Class 2 has 25980 validation instances 
+Class 2 has 32412 testing instances 
+Language german
+Class 1 has 9935 training instances 
+Class 1 has 2513 validation instances 
+Class 1 has 3100 testing instances 
+Class 0 has 4256 training instances 
+Class 0 has 1088 validation instances 
+Class 0 has 1400 testing instances 
+Class 3 has 13958 training instances 
+Class 3 has 3487 validation instances 
+Class 3 has 4241 testing instances 
+Class 2 has 22478 training instances 
+Class 2 has 5568 validation instances 
+Class 2 has 7070 testing instances 
+Language french
+Class 1 has 8641 training instances 
+Class 1 has 2102 validation instances 
+Class 1 has 2646 testing instances 
+Class 0 has 2106 training instances 
+Class 0 has 533 validation instances 
+Class 0 has 678 testing instances 
+Class 3 has 5828 training instances 
+Class 3 has 1475 validation instances 
+Class 3 has 1852 testing instances 
+Class 2 has 26526 training instances 
+Class 2 has 6670 validation instances 
+Class 2 has 8295 testing instances 
+Language italian
+Class 1 has 6320 training instances 
+Class 1 has 1581 validation instances 
+Class 1 has 1922 testing instances 
+Class 0 has 899 training instances 
+Class 0 has 245 validation instances 
+Class 0 has 306 testing instances 
+Class 3 has 5284 training instances 
+Class 3 has 1316 validation instances 
+Class 3 has 1627 testing instances 
+Class 2 has 1317 training instances 
+Class 2 has 314 validation instances 
+Class 2 has 465 testing instances 
+Minimum number of training instances for class 1 is: 6320Minimum number of validation instances for class 1 is: 1581Minimum number of testing instances for class 1 is: 1922Minimum number of training instances for class 0 is: 899Minimum number of validation instances for class 0 is: 245Minimum number of testing instances for class 0 is: 306Minimum number of training instances for class 3 is: 5284Minimum number of validation instances for class 3 is: 1316Minimum number of testing instances for class 3 is: 1627Minimum number of training instances for class 2 is: 1317Minimum number of validation instances for class 2 is: 314Minimum number of testing instances for class 2 is: 465

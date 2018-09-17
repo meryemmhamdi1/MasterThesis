@@ -1,0 +1,12 @@
+fr:french
+el:greek
+bg:bulgarian
+sv:swedish
+de:german
+it:italian
+da:danish
+en:english
+cs:czech
+fi:finnish
+hu:hungarian
+es:spanish

@@ -1,0 +1,14 @@
+network_type,max_seq_length,max_num_words,word_embeddings_path,batch_size,max_epochs,kernel_sizes,filters,num_of_units,dropout,data_set,patience,max_acc
+cg_att,75,16961,/aimlx/MultilingualEmbeddings/multiSkip_40_normalized,32,100,"[2, 3]",256,128,0.3,<Dataset.Dataset object at 0x7f1c8c710f50>,20,0.8838951310861424
+network_type,max_seq_length,max_num_words,word_embeddings_path,batch_size,max_epochs,kernel_sizes,filters,num_of_units,dropout,data_set,patience,max_acc
+cg_att,75,9492,/aimlx/MultilingualEmbeddings/multiSkip_40_normalized,32,100,"[2, 3]",256,128,0.3,<Dataset.Dataset object at 0x7f93ca48db90>,20,0.8403990024937655
+network_type,max_seq_length,max_num_words,word_embeddings_path,batch_size,max_epochs,kernel_sizes,filters,num_of_units,dropout,data_set,patience,max_acc
+cg_att,75,7071,/aimlx/MonolingualEmbeddings/GoogleNews-vectors-negative300.bin,32,100,"[2, 3]",256,128,0.3,<Dataset.Dataset object at 0x7f53278ebc90>,20,0.940149625935162
+network_type,max_seq_length,max_num_words,word_embeddings_path,batch_size,max_epochs,kernel_sizes,filters,num_of_units,dropout,data_set,patience,max_acc
+cg_att,75,9891,/aimlx/MonolingualEmbeddings/german.model,32,100,"[2, 3]",256,128,0.3,<Dataset.Dataset object at 0x7f3c4fe91f50>,20,0.845
+network_type,max_seq_length,max_num_words,word_embeddings_path,batch_size,max_epochs,kernel_sizes,filters,num_of_units,dropout,data_set,patience,max_acc
+cg_att,75,16961,/aimlx/MultilingualEmbeddings/multilingual_embeddings_joint_en_de_fr_it.txt,32,100,"[2, 3]",256,128,0.3,<Dataset.Dataset object at 0x7fc69b510f50>,20,0.8664169787765293
+network_type,max_seq_length,max_num_words,word_embeddings_path,batch_size,max_epochs,kernel_sizes,filters,num_of_units,dropout,data_set,patience,max_acc
+cg_att,75,16961,/aimlx/MultilingualEmbeddings/final-word-vectors-en_de_it_ru-ende-lang-joint-1e-09.txt,32,100,"[2, 3]",256,128,0.3,<Dataset.Dataset object at 0x7ff7b87aaf10>,20,0.8838951310861424
+network_type,max_seq_length,max_num_words,word_embeddings_path,batch_size,max_epochs,kernel_sizes,filters,num_of_units,dropout,data_set,patience,max_acc
+cg_att,75,9492,/aimlx/MultilingualEmbeddings/final-word-vectors-en_de_it_ru-ende-lang-joint-1e-09.txt,32,100,"[2, 3]",256,128,0.3,<Dataset.Dataset object at 0x7fd9534d89d0>,20,0.9351620947630923

@@ -1,0 +1,2 @@
+network_type,max_seq_length,max_num_words,word_embeddings_path,batch_size,max_epochs,kernel_sizes,filters,num_of_units,dropout,data_set,patience,max_acc
+gru_att,75,16961,/aimlx/MultilingualEmbeddings/multiSkip_40_normalized,32,10,"[2, 3]",256,128,0.3,<Dataset.Dataset object at 0x7f3a2e38db90>,20,0.8689138576779026

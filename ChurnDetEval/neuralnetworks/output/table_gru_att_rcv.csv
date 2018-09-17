@@ -1,0 +1,2 @@
+network_type,max_seq_length,max_num_words,embedding_size,word_embeddings_path,batch_size,max_epochs,kernel_sizes,filters,num_of_units,dropout,data_set,patience,max_acc
+gru_att,622,179355,300,/aimlx/MonolingualEmbeddings/wiki.fr.vec,32,10,"[2, 3]",256,128,0.3,rcv,20,0.9543862091366789

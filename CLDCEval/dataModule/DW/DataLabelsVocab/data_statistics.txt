@@ -1,0 +1,13 @@
+Statistics for DW English Dataset:
+- English:
+	+ Train: 90266
+	+ Dev: 11275
+	+ Test: 11275
+
+- German:
+	+ Train: 106181
+	+ Dev: 13264
+	+ Test: 13265
+
+ => Max number of sentences: 453
+ => Number of labels: 327
