@@ -48,18 +48,18 @@ Here are some examples of running "main_new.py":
     * Monolingual Italian Experiment: python main_new.py --mode="mono" --model-choice="cnn" --language="italian" --embed-dim=300
 
 To get the whole list and description of options with which the scripts can be executed, have a look at get_args.py script. The main flags to provide/change depend on the type of the experiment to be executed:
-    * Monolingual/Multilingual model: mode="mono" / "multi"
-        * If monolingual model is chosen, the flag language need to be specified. The currently supported languages are "english", "french", "italian", and "german". In this case, the program will only focus on that particular language by training, validating and testing on it. There is a default monolingual embedding model path for each language. If you want to try another gensim model, then go to --w2v-en, w2v-de, w2v-fr or w2v-it.
-        * If multilingual model is chosen, flag multi-train need to be specified for example:
-            * en: mean training and validating on english only and testing on all languages (english, german, italian, french)
-            * fr: mean training and validating on french only and testing on all languages (english, german, italian, french)
-            * de: mean training and validating on german only and testing on all languages (english, german, italian, french)
-            * it: mean training and validating on italian only and testing on all languages (english, german, italian, french)
-            * en, de: mean training and validating on english and german and testing on all languages (english, german, italian, french)
-            * en,de,fr,it: mean training, validating and testing on all four languages
-    * In case of multilingual embeddings, you can specify the directory and model name in --model-dir and --multi-model-file respectively. Don't forget to change --embed-dim accordingly.
-    * Choice of Document Classification Model: model-choice="mlp" or "cnn" or "svm"
-    * Choice of the dataset: it is by default rcv (Reuters) dataset. If you provide the raw dataset in the form of folders of xml files for each language, it will parse and preprocess it from scratch. Otherwise, if you the preprocessed version of x_train, x_dev, and x_test (where each split is a list of document saved in the form of pickle where each document element is a list of sentences in the document), you can skip the parsing and provide any dataset you want non-tokenized and non-indexed. You can further adapt it by skipping some steps from the pipeline and providing the preprocessed version directly.
+* Monolingual/Multilingual model: mode="mono" / "multi"
+* If monolingual model is chosen, the flag language need to be specified. The currently supported languages are "english", "french", "italian", and "german". In this case, the program will only focus on that particular language by training, validating and testing on it. There is a default monolingual embedding model path for each language. If you want to try another gensim model, then go to --w2v-en, w2v-de, w2v-fr or w2v-it.
+* If multilingual model is chosen, flag multi-train need to be specified for example:
+   * en: mean training and validating on english only and testing on all languages (english, german, italian, french)
+   * fr: mean training and validating on french only and testing on all languages (english, german, italian, french)
+   * de: mean training and validating on german only and testing on all languages (english, german, italian, french)
+   * it: mean training and validating on italian only and testing on all languages (english, german, italian, french)
+   * en, de: mean training and validating on english and german and testing on all languages (english, german, italian, french)
+   * en,de,fr,it: mean training, validating and testing on all four languages
+* In case of multilingual embeddings, you can specify the directory and model name in --model-dir and --multi-model-file respectively. Don't forget to change --embed-dim accordingly.
+   * Choice of Document Classification Model: model-choice="mlp" or "cnn" or "svm"
+   * Choice of the dataset: it is by default rcv (Reuters) dataset. If you provide the raw dataset in the form of folders of xml files for each language, it will parse and preprocess it from scratch. Otherwise, if you the preprocessed version of x_train, x_dev, and x_test (where each split is a list of document saved in the form of pickle where each document element is a list of sentences in the document), you can skip the parsing and provide any dataset you want non-tokenized and non-indexed. You can further adapt it by skipping some steps from the pipeline and providing the preprocessed version directly.
     * Preparing the embeddings model: The embedding model should be a UTF-8 encoded plain text file where each line is a word. Each line begin with a lowercased surface form, prefixed by the 2-letter ISO 639-1 code of the language (e.g., "en:school" or "fr:école") followed by the floating-point values of each dimensions in the word embedding. All fields must be delimited with one space, and each line must end with a "\n" (as opposed to "\r\n". If the format of your embedding is different feel free to adapt function: load_multi_vectors in data_utils.
 
 
